@@ -1,0 +1,10 @@
+{
+    "name": "rvfs",
+    "description": "This crate provides a virtual file system implementation, which can be used in the kernel or user space.",
+    "authors": [{
+      "name": "chenlinfeng ",
+      "email": "chenlinfeng25@outlook.com"
+    }],
+    "keywords": ["fs", "vfs"],
+    "doc_url": "https://github.com/kern-crates/rvfs/blob/main/README.md"
+  }
